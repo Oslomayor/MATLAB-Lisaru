@@ -1,3 +1,7 @@
+% LisaruÍ¼ÐÎ¶¯Ì¬Ä£Äâ
+% Author: Oslomayor
+% <https://github.com/Oslomayor/MATLAB-Lisaru>
+
 
 function varargout = LisaruShow(varargin)
 % LISARUSHOW MATLAB code for LisaruShow.fig
